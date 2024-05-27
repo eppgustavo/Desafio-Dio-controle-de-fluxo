@@ -29,6 +29,7 @@ public class DefineCandidates {
                 System.out.println("#######################################################");
                 selectedCandidates++;
             }
+            analyseSalaryCandidate(expectedSalary);
             actualCandidate++;
         }
     }
